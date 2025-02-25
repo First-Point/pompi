@@ -14,3 +14,9 @@ Website: https://pompi-27jjydhzba-ew.a.run.app/
 - **Tailwind:** A utility-first CSS framework that allows for rapid UI development, enabling a sleek and modern design.
 - **Ethers:** A lightweight library for interacting with the Ethereum blockchain, used for handling blockchain interactions within the application.
 - **Strapi:** We used Strapi to enhance our infrastructural parts in backend and we store the blockchain data which doesn't need to be fetched regularly to reduce computational cost.
+
+
+## License
+This work is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.
+Commercial use is prohibited.
+See the LICENSE file for more details.
